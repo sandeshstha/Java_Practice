@@ -1,3 +1,4 @@
+// wap to read a number from console using InputStream. apply the method of serialization in this program
 import java.io.*;
 class ReadData implements Serializable
 {
